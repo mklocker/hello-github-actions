@@ -2,6 +2,5 @@
 repo:
 - '*'
 
-# Add 'source' label to any change to src files within the source dir EXCEPT for the docs sub-folder
-workflow:
+workflowflow_changes:
 - any: ['.github/workflows/**/*']
